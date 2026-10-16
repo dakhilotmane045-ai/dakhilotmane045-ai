@@ -17,7 +17,7 @@
 - 🔭 Security Researcher on HackerOne: **@dakhilotmane045-ai**
 - 🌱 Currently learning: **Advanced XSS, API Security, IDOR**
 - 👯 Looking to collaborate on **Bug Bounty**
-- 📫 Email: **dakhilotmane045@gmail.com**
+    **📩 Contact:** DM on TikTok / Instagram
 - ⚡ From: **Morocco 🇲🇦**
 
 ---
@@ -28,9 +28,9 @@
 ---
 
 ### 🏅 Certificate
-![XSS GOD Certificate](https://github.com/dakhilotmane045-ai/xss-lab/blob/main/certificate.png)
+![XSS GOD Certificate](https://github. **📩 Contact:** DM on TikTok / Instagram-ai/xss-lab/blob/main/certificate.png)
 
-**[🔗 View My XSS Lab - PWNED 4/4](https://github.com/dakhilotmane045-ai/xss-lab)**
+**[🔗 View My XSS Lab - PWNED 4/4](https://github   **📩 Contact:** DM on TikTok / Instagram
 
 ---
 ⭐ From Ait Lazza to the World - OT-M4N3
